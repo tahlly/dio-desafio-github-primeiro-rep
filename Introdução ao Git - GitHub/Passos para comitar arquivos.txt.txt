@@ -1,0 +1,9 @@
+Passos importantes para enviar/comitar arquivos: 
+
+1 - git status 
+1.1 - criar pasta/arquivo e verificar novamente com o status. 
+2 - git add . ou git add -A (todos arquivos) => usado para adicionar arquivo (s).
+2.2 - vai ficar verdinho sinalizando que o arquivo está pronto para ser enviado.
+3 - git status
+4 - git commit -m "comentario bom" 
+4 - git push origin main => enviou para a main
